@@ -15,6 +15,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A country list é um campo de filtro que consegue listar países em tempo real consumindo uma API e dizer a quantidade populacional tão como a quantidade de países baseados em filtro pesquisado.
 
+## Ícones
+
+📦 Nova funcionalidade;
+🆙 Atualização;
+🐞 Correção de bug;
+🏁 Release.
+
 ## 💻 Apresentação
 
 <img src="src/assets/gifs/react-countries.gif">
