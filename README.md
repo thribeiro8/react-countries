@@ -2,6 +2,10 @@
     <img alt="Countries" title="CountriesList" src="src/assets/images/countries.png" width="220px" />
 </h1>
 
+## 💻 Apresentação
+
+<img src="src/assets/gifs/react-countries.gif">
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -21,7 +25,3 @@ A country list é um campo de filtro que consegue listar países em tempo real c
 - 🆙 Atualização;
 - 🐞 Correção de bug;
 - 🏁 Release.
-
-## 💻 Apresentação
-
-<img src="src/assets/gifs/react-countries.gif">
