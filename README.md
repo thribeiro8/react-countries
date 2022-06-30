@@ -17,10 +17,10 @@ A country list é um campo de filtro que consegue listar países em tempo real c
 
 ## Ícones
 
-📦 Nova funcionalidade;
-🆙 Atualização;
-🐞 Correção de bug;
-🏁 Release.
+- 📦 Nova funcionalidade;
+- 🆙 Atualização;
+- 🐞 Correção de bug;
+- 🏁 Release.
 
 ## 💻 Apresentação
 
