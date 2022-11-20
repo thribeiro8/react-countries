@@ -10,10 +10,11 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [React]
-- [React Hooks]
-- [Styled-components]
-- [Rest Countries API]
+- React
+- React Hooks
+- Styled Components
+- React Functional Components
+- Rest Countries API
 
 ## 💻 Sobre o Projeto
 
